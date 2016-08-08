@@ -1,0 +1,13 @@
+sharding:
+    actualTables:
+    - test1
+    - test2
+    logicTables:
+    - test3
+    - test4
+    dataBaseShardingColumns:
+    - test5
+    - test6
+    tableShardingColumns:
+    - test7
+    - test8
